@@ -1,5 +1,5 @@
 # nameit
-Usage: ./nameit.sh <initial letter> [-a|--all]
+Usage: ./nameit.sh (initial letter) [-a|--all]
 
     ./nameit.sh x -a
     X-23
